@@ -13,7 +13,7 @@ RSPagl;Cluster10-TKO40;Cluster1-WT40;Cluster2-WT50;Cluster10-TKO50
 RSPd;Cluster10-TKO40;Cluster1-WT40;Cluster2-WT50;Cluster10-TKO50
 RSPv;Cluster10-TKO40;Cluster2-WT40;Cluster2-WT50;Cluster10-TKO50
 SSp-bf;Cluster10-TKO40;Cluster5-WT40;Cluster2-WT50;Cluster10-TKO50
-SSp-n;Cluster5-TK4O0;Cluster5-WT40;Cluster1-WT50;Cluster1-TKO50
+SSp-n;Cluster5-TKO40;Cluster5-WT40;Cluster1-WT50;Cluster1-TKO50
 SSp-tr;Cluster11-TKO40;Cluster10-WT40;Cluster10-WT50;Cluster11-TKO50
 SSp-ll;Cluster11-TKO40;Cluster10-WT40;Cluster10-WT50;Cluster11-TKO50
 SSp-ul;Cluster10-TKO40;Cluster10-WT40;Cluster1-WT50;Cluster10-TKO50
